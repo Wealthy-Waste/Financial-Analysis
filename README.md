@@ -11,3 +11,7 @@ Prateek Majumder
 
 Sayanti Dutta, Ankita Saha
 
+3. Stericycle Inc
+
+Sumedha Ghosh, Diptashree Paul
+
