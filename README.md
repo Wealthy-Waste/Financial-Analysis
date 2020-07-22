@@ -15,3 +15,6 @@ Sayanti Dutta, Ankita Saha
 
 Sumedha Ghosh, Diptashree Paul
 
+4. Covanta Holding Corporation(CVA)
+
+Balaka Biswas
