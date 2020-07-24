@@ -10,6 +10,6 @@ Task completed till now :
 
 ABOUT TASK 1 :
 
-This is a notebook of necessary financial analysis on Covanta's stock trends from January 2000 to July 2020. The notebook has been made using interactive visualizations (BI dashboards, plotly plots). Since GitHub's default view of notebooks doesn't support interactive plots, instructions to view the notebook and the dashboard in the Introductory notes have been written at the very beginning of the notebook.
+This is a notebook of necessary financial analysis on Covanta's stock trends from January 2000 to July 2020. The notebook has been made using interactive visualizations (BI dashboards, plotly plots). Since GitHub's default view of notebooks doesn't support interactive plots, instructions to view the notebook and the dashboard have been written in the Introductory notes at the very beginning of the notebook.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
