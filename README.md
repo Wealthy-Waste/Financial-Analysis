@@ -15,6 +15,6 @@ Sayanti Dutta, Ankita Saha
 
 Sumedha Ghosh, Diptashree Paul
 
-4. Covanta Holding Corporation(CVA)
+4. Covanta Holding Corporation(CVA) ([Read the README](https://github.com/BALaka-18/Financial-Analysis/blob/master/Covanta%20Holding%20Corporation/README.md))
 
 Balaka Biswas
