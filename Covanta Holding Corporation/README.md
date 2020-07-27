@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 2. CVA Text Analysis : Link -> [GitHub file](https://github.com/BALaka-18/Financial-Analysis/blob/master/Covanta%20Holding%20Corporation/CVA_Text_Analysis.ipynb)
 
-ABOUT TASK 1 :
+ABOUT TASK 2 :
 
 This is a notebook that analyzes an article by Biomass Magazine on the upcoming projects, ongoing projects and current status of the revenues of Covanta.
 Please note that this notebook uses a plotly chart for showing word-frequency distribution. Plotly charts are not supported by GitHub's default view. To view the plot, visit this notebook.
