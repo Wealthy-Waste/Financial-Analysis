@@ -1,6 +1,6 @@
 # Financial-Analysis
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Haimantika/PowerPlatform/graphs/commit-activity) [![Python Financial Analysis]([![GitHub issues](https://img.shields.io/github/issues/Haimantika/PowerPlatform)](https://github.com/Haimantika/PowerPlatform/issues)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Haimantika/PowerPlatform/graphs/commit-activity)([![GitHub issues](https://img.shields.io/github/issues/Haimantika/PowerPlatform)](https://github.com/Haimantika/PowerPlatform/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Haimantika/PowerPlatform?style=social)](https://github.com/Haimantika/PowerPlatform/network) [![GitHub stars](https://img.shields.io/github/stars/Haimantika/PowerPlatform?style=social)](https://github.com/Haimantika/PowerPlatform/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 Market data analysis on various companies. 
