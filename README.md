@@ -1,6 +1,6 @@
 # Financial-Analysis
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)][![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 Market data analysis on various companies. 
 
