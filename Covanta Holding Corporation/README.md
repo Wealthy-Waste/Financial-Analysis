@@ -23,7 +23,7 @@ Please note that this notebook uses a plotly chart for showing word-frequency di
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-2. Covanta Key Aspects : Link -> [GitHub file](https://github.com/BALaka-18/Financial-Analysis/blob/master/Covanta%20Holding%20Corporation/Covanta_Key_Aspects.ipynb)
+3. Covanta Key Aspects : Link -> [GitHub file](https://github.com/BALaka-18/Financial-Analysis/blob/master/Covanta%20Holding%20Corporation/Covanta_Key_Aspects.ipynb)
 
 ABOUT TASK 3 :
 
