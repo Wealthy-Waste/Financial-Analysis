@@ -23,10 +23,18 @@ Please note that this notebook uses a plotly chart for showing word-frequency di
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-2. Covanta Key Aspects : Link -> [GitHub file](https://github.com/BALaka-18/Financial-Analysis/blob/master/Covanta%20Holding%20Corporation/Covanta_Key_Aspects.ipynb)
+3. Covanta Key Aspects : Link -> [GitHub file](https://github.com/BALaka-18/Financial-Analysis/blob/master/Covanta%20Holding%20Corporation/Covanta_Key_Aspects.ipynb)
 
 ABOUT TASK 3 :
 
 This is a notebook that extracts and analyzes keywords from an article on Covanta by Investorplace, which are then summarized to provide key aspect summaries on keywords in the range-window of 10, 15, 20 and 30.
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+4. Covanta Stock Trends : Link -> [GitHub file](https://github.com/BALaka-18/Financial-Analysis/blob/master/Covanta%20Holding%20Corporation/Covanta_Stock_Trends.ipynb)
+
+ABOUT TASK 4 :
+
+This is a notebook that analyzes moving average trends to get a fair idea about stock trends during the onset of the worldwide lockdown versus the immediate stock situation. The notebook has been made using interactive visualizations (plotly plots). Since GitHub's default view of notebooks doesn't support interactive plots, instructions to view the notebook's plots have been written in the Introductory notes at the very beginning of the notebook.
 
 ________________________________________________________________________________________________________________________________________________________________________________
